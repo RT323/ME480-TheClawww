@@ -1,0 +1,473 @@
+{
+  "main": {
+    "id": "dfcee1d19ae0ddfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1748dc273fdd89fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27cf1eb84ebb0d55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Requirements/Derived Requirements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Derived Requirements"
+            }
+          },
+          {
+            "id": "02e0c4211f0230b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Requirements/Subsystem Requirements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Subsystem Requirements"
+            }
+          },
+          {
+            "id": "c13b1a34c5932c81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Architecture/Subsystems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Subsystems"
+            }
+          },
+          {
+            "id": "e044a06037896294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Architecture/Interfaces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interfaces"
+            }
+          },
+          {
+            "id": "0f4e76ede62e2913",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "02_Architecture/System Diagram.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "System Diagram"
+            }
+          },
+          {
+            "id": "758e1998c6d4c419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Components/Mechanical.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mechanical"
+            }
+          },
+          {
+            "id": "7ff05c63c5124f04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Components/Electrical.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Electrical"
+            }
+          },
+          {
+            "id": "4001a596b0f7510c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Components/Electrical.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Electrical"
+            }
+          },
+          {
+            "id": "967d5665f722452b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Tests/Test Matrix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test Matrix"
+            }
+          },
+          {
+            "id": "a86a8bf5e03a56b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Tests/V&V Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "V&V Plan"
+            }
+          },
+          {
+            "id": "64bb529f4e58ae81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Tests/Test Matrix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test Matrix"
+            }
+          },
+          {
+            "id": "29daac31feb2389b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Project/Schedule.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Schedule"
+            }
+          },
+          {
+            "id": "a10661117eae7a4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Project/Risks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Risks"
+            }
+          },
+          {
+            "id": "dfbdcad1db0ee1b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Project/Schedule.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Schedule"
+            }
+          },
+          {
+            "id": "72df2728bf3c1bd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99_Resources/Templates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Templates"
+            }
+          },
+          {
+            "id": "1d17246e006e5715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Requirements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_Requirements"
+            }
+          },
+          {
+            "id": "281b8c915298add7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Tests.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04_Tests"
+            }
+          },
+          {
+            "id": "4a43650bdce7fea6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05_Project"
+            }
+          },
+          {
+            "id": "c6be490d44466e19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99_Resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "99_Resources"
+            }
+          }
+        ],
+        "currentTab": 18
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e713aab6bca1dea0",
+    "type": "split",
+    "children": [
+      {
+        "id": "31a618840ea2de74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "feb5ced395ed8b9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "57074cdf668476c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d000bc3970d1b7b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6392e6e655cf6a78",
+    "type": "split",
+    "children": [
+      {
+        "id": "fad1047457e2f81d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "654b19370fd36156",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1f89632e5a853de0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dashboard - ME480.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Dashboard - ME480"
+            }
+          },
+          {
+            "id": "b39499a53cf7cfc7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f9f89d7b18b98492",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c08fc4113fa7a446",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboard - ME480.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dashboard - ME480"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "c6be490d44466e19",
+  "lastOpenFiles": [
+    "99_Resources/Team.md",
+    "99_Resources.md",
+    "Ideation.md",
+    "99_Resources/Ideation.md",
+    "Dashboard - ME480.md",
+    "03_Components.md",
+    "02_Architecture.md",
+    "05_Project.md",
+    "04_Tests.md",
+    "01_Requirements.md",
+    "01_Requirements/Subsystem Requirements.md",
+    "01_Requirements/System Requirements.md",
+    "01_Requirements/Derived Requirements.md",
+    "02_Architecture/System Diagram.md",
+    "99_Resources/Examples.md",
+    "99_Resources/Templates.md",
+    "05_Project/Schedule.md",
+    "05_Project/Risks.md",
+    "05_Project/Meeting Notes.md",
+    "04_Tests/Test Matrix.md",
+    "04_Tests/Test Procedures.md",
+    "04_Tests/V&V Plan.md",
+    "03_Components/Electrical.md",
+    "03_Components/Software.md",
+    "03_Components/Mechanical.md",
+    "02_Architecture/Interfaces.md",
+    "Untitled.canvas",
+    "99_Resources",
+    "05_Project",
+    "04_Tests",
+    "03_Components",
+    "02_Architecture",
+    "01_Requirements"
+  ]
+}
